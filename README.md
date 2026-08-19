@@ -4,9 +4,9 @@
 
 This project was developed as part of the **CodeAlpha Data Visualization Task**.
 
-The objective is to transform raw e-commerce sales data into meaningful visualizations and an interactive analytics dashboard that helps identify sales trends, profitability patterns, top-performing products, category performance, and regional business opportunities.
+The objective of this project is to transform raw e-commerce sales data into meaningful visualizations and an interactive analytics dashboard that helps identify sales trends, profitability patterns, top-performing products, category performance, regional performance, and potential business opportunities.
 
-The project follows the complete data analytics workflow:
+The project follows a complete data analytics workflow:
 
 **Raw Data → Data Cleaning → Exploratory Data Analysis → Visualization → Business Insights → Interactive Dashboard**
 
@@ -17,12 +17,13 @@ The project follows the complete data analytics workflow:
 - Analyze e-commerce sales data.
 - Clean and prepare the dataset for analysis.
 - Identify important sales and profitability trends.
-- Create professional data visualizations.
-- Compare product categories and regions.
-- Identify top-performing and loss-making products.
+- Create professional and meaningful data visualizations.
+- Compare product categories and regional performance.
+- Identify top-performing products.
+- Identify loss-making products.
 - Analyze the relationship between discounts, sales, and profit.
-- Build an interactive dashboard for business decision-making.
-- Present data-driven recommendations.
+- Build an interactive dashboard for business analysis.
+- Generate data-driven business insights and recommendations.
 
 ---
 
@@ -34,7 +35,7 @@ The project follows the complete data analytics workflow:
 - **Seaborn**
 - **Plotly**
 - **Streamlit**
-- **Jupyter/VS Code**
+- **Jupyter Notebook / VS Code**
 - **Git & GitHub**
 
 ---
@@ -57,7 +58,9 @@ CodeAlpha_DataVisualization/
 │   ├── monthly_profit_trend.png
 │   ├── sales_vs_profit.png
 │   ├── discount_vs_profit.png
-│   └── top_10_loss_making_products.png
+│   ├── top_10_loss_making_products.png
+│   ├── Dashboard_Filter.png
+│   └── Dashboard_KPIs.png
 │
 ├── app.py
 ├── data_analysis.py
