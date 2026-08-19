@@ -1,36 +1,195 @@
-E-COMMERCE SALES DATA ANALYSIS
-================================
+============================================================
+E-COMMERCE SALES DATA VISUALIZATION
+BUSINESS INSIGHTS AND RECOMMENDATIONS
+============================================================
 
-KEY BUSINESS INSIGHTS
 
-1. Overall Performance
-Total sales:
-Total profit:
-Overall profit margin:
+1. OVERALL BUSINESS PERFORMANCE
+------------------------------------------------------------
 
-2. Sales Growth
-Best performing year:
-Sales growth trend:
+The Superstore dataset contains 9,994 transactions covering
+5,009 unique orders, 793 customers, and 1,862 products.
 
-3. Category Performance
-Best category by sales:
-Best category by profit:
-Weakest category by profit:
+Total Sales: $2,297,200.86
+Total Profit: $286,397.02
+Total Quantity Sold: 37,873
+Overall Profit Margin: 12.47%
 
-4. Regional Performance
-Best region by sales:
-Best region by profit:
-Lowest-performing region:
+The business generated more than $2.29 million in sales and
+approximately $286,397 in profit during the analyzed period.
 
-5. Product Performance
-Top product by sales:
-Top product by profit:
 
-6. Loss Analysis
-Most loss-making product:
-Effect of discounts on profitability:
+2. SALES AND PROFIT GROWTH
+------------------------------------------------------------
 
-7. Business Recommendations
+Yearly Sales:
+
+2014: $484,247.50
+2015: $470,532.51
+2016: $609,205.60
+2017: $733,215.26
+
+Yearly Profit:
+
+2014: $49,543.97
+2015: $61,618.60
+2016: $81,795.17
+2017: $93,439.27
+
+2017 was the strongest year in the dataset for both sales and
+profit.
+
+Sales increased substantially from 2015 to 2017, indicating
+overall positive business growth during the later years.
+
+
+3. CATEGORY PERFORMANCE
+------------------------------------------------------------
+
+Sales by Category:
+
+Technology: $836,154.03
+Furniture: $741,999.80
+Office Supplies: $719,047.03
+
+Profit by Category:
+
+Technology: $145,454.95
+Office Supplies: $122,490.80
+Furniture: $18,451.27
+
+Technology is the strongest category because it leads both
+sales and profit.
+
+Furniture generates substantial sales but considerably lower
+profit compared with Technology and Office Supplies.
+
+This indicates that Furniture should be investigated for
+pricing, discounting, product costs, or other profitability
+factors.
+
+
+4. REGIONAL PERFORMANCE
+------------------------------------------------------------
+
+Sales by Region:
+
+West: $725,457.82
+East: $678,781.24
+Central: $501,239.89
+South: $391,721.91
+
+Profit by Region:
+
+West: $108,418.45
+East: $91,522.78
+South: $46,749.43
+Central: $39,706.36
+
+The West region is the strongest region for both sales and
+profit.
+
+The South region has the lowest sales performance, while the
+Central region generates relatively low profit compared with
+the stronger regions.
+
+
+5. TOP PRODUCTS
+------------------------------------------------------------
+
+The highest-selling product is:
+
+Canon imageCLASS 2200 Advanced Copier
+Sales: $61,599.82
+
+It is also the most profitable product:
+
+Profit: $25,199.93
+
+This product represents a strong-performing product that may
+deserve continued promotion and inventory attention.
+
+
+6. LOSS-MAKING PRODUCTS
+------------------------------------------------------------
+
+The most loss-making product is:
+
+Cubify CubeX 3D Printer Double Head Print
+Profit: -$8,879.97
+
+Other products also generate significant negative profit.
+
+These products should be investigated to determine whether
+the losses are related to high discounts, pricing issues,
+product costs, or low demand.
+
+
+7. DISCOUNT AND PROFITABILITY
+------------------------------------------------------------
+
+The Discount vs Profit visualization is useful for identifying
+whether higher discounts are associated with lower profitability.
+
+Transactions with high discounts should be examined carefully,
+especially when they result in negative profit.
+
+The business should avoid excessive discounting when it does
+not generate enough additional sales to compensate for the
+reduction in profit.
+
+
+8. KEY DATA STORY
+------------------------------------------------------------
+
+The business demonstrates strong overall growth, with sales
+and profit reaching their highest levels in 2017.
+
+Technology is the strongest category and the West is the
+strongest region.
+
+However, Furniture has relatively weak profitability despite
+high sales, and several individual products generate large
+losses.
+
+Therefore, increasing revenue alone should not be the only
+objective. Management should focus on improving profitability
+through better product selection, pricing, discount control,
+and regional strategy.
+
+
+9. BUSINESS RECOMMENDATIONS
+------------------------------------------------------------
+
 Recommendation 1:
+Continue investing in high-performing Technology products and
+top-performing products because they contribute strongly to
+both revenue and profit.
+
 Recommendation 2:
+Investigate Furniture pricing, discounts, and product costs
+because the category produces high sales but comparatively low
+profit.
+
 Recommendation 3:
+Review loss-making products and determine whether they should
+be repriced, discounted less, promoted differently, or removed
+from the product portfolio.
+
+Recommendation 4:
+Continue supporting the West and East regions while developing
+strategies to improve sales and profitability in the South and
+Central regions.
+
+Recommendation 5:
+Monitor discount levels carefully to prevent excessive
+discounting from reducing profitability.
+
+Recommendation 6:
+Use the interactive dashboard regularly to monitor sales,
+profit, products, categories, and regional performance.
+
+
+============================================================
+END OF BUSINESS INSIGHTS
+============================================================
