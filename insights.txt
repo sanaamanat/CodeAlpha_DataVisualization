@@ -1,0 +1,36 @@
+E-COMMERCE SALES DATA ANALYSIS
+================================
+
+KEY BUSINESS INSIGHTS
+
+1. Overall Performance
+Total sales:
+Total profit:
+Overall profit margin:
+
+2. Sales Growth
+Best performing year:
+Sales growth trend:
+
+3. Category Performance
+Best category by sales:
+Best category by profit:
+Weakest category by profit:
+
+4. Regional Performance
+Best region by sales:
+Best region by profit:
+Lowest-performing region:
+
+5. Product Performance
+Top product by sales:
+Top product by profit:
+
+6. Loss Analysis
+Most loss-making product:
+Effect of discounts on profitability:
+
+7. Business Recommendations
+Recommendation 1:
+Recommendation 2:
+Recommendation 3:
